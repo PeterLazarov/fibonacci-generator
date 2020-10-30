@@ -1,7 +1,7 @@
 
 
 module.exports.generate = function(size) {
-    let num1 = 0, num1 = 1;
+    let num1 = 0, num2 = 1;
     let result = [];
 
     if (size > 0){
