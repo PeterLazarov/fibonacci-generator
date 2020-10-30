@@ -1,0 +1,15 @@
+{
+  "name": "peters-fibonacci-generator",
+  "version": "1.0.0",
+  "description": "generates a fibonacci multiplation table",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "fibonacci-generator"
+  },
+  "author": "peter.lazarov94",
+  "license": "ISC"
+}
